@@ -9,7 +9,7 @@
 ---
 ### Use
 1. Clone project and run `pond` executable in linux(X11)   
-2. Click on places to change their state to red forg or normal (green) forg to import your pond   
+2. For import your pond, click on places to change their state to red forg or normal (green) forg    
 3. Click on `Calculate` button to solve the pond   
 4. The result shows in the bottom of `Calculate` button   
 > by clicking on a green forg, it will convert to red forg   
